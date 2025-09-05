@@ -1,7 +1,8 @@
 # E-commerce-Sales-Dashboard (Power BI)
 I have developed a comprehensive project in Power BI, creating multiple Charts, KPI's and Tables to analyze the data. This process involved several stages, including data preprocessing, data cleaning, and data visualization.
 
-# Dataset Used
+Dataset Used - https://drive.google.com/file/d/1UgzhBa_-rqtQEZezFej1kAIFFwPJDFIn/view?usp=drive_link
+
 
 
 # 🚀 Project Overview
