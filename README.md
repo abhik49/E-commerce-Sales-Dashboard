@@ -7,26 +7,28 @@ The project covers various aspects, from order trends and fulfillment efficiency
 
 # 📊 Key Findings & Insights
 🔹 Sales Channel Dynamics
-Amazon.in emerges as the dominant sales channel.
-Amazon's fulfillment network shows greater efficiency and fewer returns than merchant-fulfilled orders.
+•	Amazon.in emerges as the dominant sales channel.
+•	Amazon's fulfillment network shows greater efficiency and fewer returns than merchant-fulfilled orders.
 🔹 Fulfillment Efficiency
-Merchant-fulfilled orders have higher return rates.
-Amazon’s network offers better dispatch and delivery performance.
+•	Merchant-fulfilled orders have higher return rates.
+•	Amazon’s network offers better dispatch and delivery performance.
 🔹 Geographical Performance
-Top-performing states include Maharashtra, Karnataka, Uttar Pradesh, and Tamil Nadu.
-Most sales occur in metropolitan and Tier-1 cities.
+•	Top-performing states include Maharashtra, Karnataka, Uttar Pradesh, and Tamil Nadu.
+•	Most sales occur in metropolitan and Tier-1 cities.
 🔹 Customer Demographics
-Significant gender skew toward female customers in categories like Kurtis and Western Dresses.
-Major customer base resides in urban areas.
+•	Significant gender skew toward female customers in categories like Kurtis and Western Dresses.
+•	Major customer base resides in urban areas.
 🔹 Category & Product Performance
-Best-selling categories: Set, Kurta, Western Dress.
-Top SKUs: J0230-SKD-M, J0230-SKD-S, JNE3781.
-High return rates indicate issues with product sizing, visuals, or quality.
+•	Best-selling categories: Set, Kurta, Western Dress.
+•	Top SKUs: J0230-SKD-M, J0230-SKD-S, JNE3781.
+•	High return rates indicate issues with product sizing, visuals, or quality.
 🔹 Order Status & Returns
-Shipped is the most common status.
-High return and cancellation rates need strategic attention.
+•	Shipped is the most common status.
+•	High return and cancellation rates need strategic attention.
 🔹 Business-to-Business (B2B) Sales
-Although smaller in volume, B2B orders have higher Average Order Value (AOV) and lower return rates, showing potential for targeted growth.
+•	Although smaller in volume, B2B orders have higher Average Order Value (AOV) and lower return rates, showing potential for targeted growth.
+
+
 # 📝 Actionable Recommendations
 Streamline Fulfillment
 Improve last-mile delivery, reduce in-transit delays, and speed up merchant-fulfilled dispatches.
