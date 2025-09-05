@@ -1,5 +1,9 @@
 # E-commerce-Sales-Dashboard (Power BI)
 I have developed a comprehensive project in Power BI, creating multiple Charts, KPI's and Tables to analyze the data. This process involved several stages, including data preprocessing, data cleaning, and data visualization.
+
+# Dataset Used
+
+
 # 🚀 Project Overview
 This repository contains an end-to-end E-Commerce Sales Analysis project, focusing on identifying key trends, customer behavior, and actionable insights to enhance business performance. The dashboard was created using Power BI, with data preparation handled in Excel.
 
@@ -56,3 +60,5 @@ The project uses the file sales_dataset.csv, which includes order details, SKU-l
 # 🤝 Contributing
 Feel free to explore the dashboard, suggest improvements, or contribute to this project.
 Your feedback is welcome!
+
+#PowerBI #Dashboard #EcommerceAnalytics #DataVisualization #BusinessIntelligence #DataAnalytics
