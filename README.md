@@ -1,11 +1,11 @@
 # E-commerce-Sales-Dashboard (Power BI)
 I have developed a comprehensive project in Power BI, creating multiple Charts, KPI's and Tables to analyze the data. This process involved several stages, including data preprocessing, data cleaning, and data visualization.
-#🚀 Project Overview
+# 🚀 Project Overview
 This repository contains an end-to-end E-Commerce Sales Analysis project, focusing on identifying key trends, customer behavior, and actionable insights to enhance business performance. The dashboard was created using Power BI, with data preparation handled in Excel.
 
 The project covers various aspects, from order trends and fulfillment efficiency to product and customer-level performance, delivering valuable insights to support data-driven decision-making.
 
-📊 Key Findings & Insights
+# 📊 Key Findings & Insights
 🔹 Sales Channel Dynamics
 Amazon.in emerges as the dominant sales channel.
 Amazon's fulfillment network shows greater efficiency and fewer returns than merchant-fulfilled orders.
@@ -27,7 +27,7 @@ Shipped is the most common status.
 High return and cancellation rates need strategic attention.
 🔹 Business-to-Business (B2B) Sales
 Although smaller in volume, B2B orders have higher Average Order Value (AOV) and lower return rates, showing potential for targeted growth.
-📝 Actionable Recommendations
+# 📝 Actionable Recommendations
 Streamline Fulfillment
 Improve last-mile delivery, reduce in-transit delays, and speed up merchant-fulfilled dispatches.
 
@@ -43,14 +43,14 @@ Offer bulk deals, loyalty programs, and personalized promotions to B2B customers
 Upselling Opportunities
 Use AOV data to implement bundle offers, cross-sells, and personalized product suggestions.
 
-🛠 Technologies Used
+# 🛠 Technologies Used
 Power BI – Dashboard creation, KPIs, filters, and visuals
 Excel – Data cleaning, joins, and preprocessing
 DAX – Custom measures and calculated columns
 Data Modeling – Linking multiple tables like sales, returns, SKUs, and customers
-📁 Dataset
+# 📁 Dataset
 The project uses the file sales_dataset.csv, which includes order details, SKU-level information, customer demographics, and fulfillment data.
 
-🤝 Contributing
+# 🤝 Contributing
 Feel free to explore the dashboard, suggest improvements, or contribute to this project.
 Your feedback is welcome!
