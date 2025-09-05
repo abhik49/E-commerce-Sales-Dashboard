@@ -5,6 +5,9 @@ Dataset Used - https://drive.google.com/file/d/1UgzhBa_-rqtQEZezFej1kAIFFwPJDFIn
 
 Dashboard Link - https://drive.google.com/file/d/1pf1cKNj8QvUpGniklwKKMddUVFq0RUuy/view?usp=drive_link
 
+Dashboard - ![Ecom dashboard screenshot](https://github.com/user-attachments/assets/f02ff783-0c76-47c5-9549-5a440a66c44c)
+
+
 
 # 🚀 Project Overview
 This repository contains an end-to-end E-Commerce Sales Analysis project, focusing on identifying key trends, customer behavior, and actionable insights to enhance business performance. The dashboard was created using Power BI, with data preparation handled in Excel.
